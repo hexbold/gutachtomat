@@ -1,0 +1,12 @@
+export { InterventionModal } from './InterventionModal';
+export { AllgemeineInterventionenModal } from './AllgemeineInterventionenModal';
+export { DepressionInterventionenModal } from './DepressionInterventionenModal';
+export { BipolareInterventionenModal } from './BipolareInterventionenModal';
+export { AngstInterventionenModal } from './AngstInterventionenModal';
+export { BorderlineInterventionenModal } from './BorderlineInterventionenModal';
+export { PTBSInterventionenModal } from './PTBSInterventionenModal';
+export { ZwangInterventionenModal } from './ZwangInterventionenModal';
+export { SomatoformeInterventionenModal } from './SomatoformeInterventionenModal';
+export { AnorexieInterventionenModal } from './AnorexieInterventionenModal';
+export { BulimieInterventionenModal } from './BulimieInterventionenModal';
+export { PsychoseInterventionenModal } from './PsychoseInterventionenModal';
